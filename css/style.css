@@ -52,7 +52,7 @@ head{
      margin-bottom: 15px;
      color: tomato;
  }
- .garelly_info
+ .gallery_info
  {
      width: 60%;
      height: 190vh;
@@ -60,13 +60,13 @@ head{
      padding: 0 30px;
      box-shadow:0 0 15px 1px rgba(37, 73, 214, 0.18);
  }
- .garelly_info h1
+ .gallery_info h1
  {
      color: yellowgreen;
      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  }
 
- .garelly_info h2
+ .gallery_info h2
  {
      margin-top: 30px;
      margin-bottom: 15px;
