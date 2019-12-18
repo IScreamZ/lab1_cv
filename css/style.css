@@ -1,0 +1,178 @@
+*
+{
+    padding: 10px;
+    margin: 0;
+
+    box-sizing: border-box;
+}
+
+body
+{
+    background-color:black;
+    font-family: fantasy;
+    color: rgb(0, 167, 167);
+}
+head{
+    color: violet;
+}
+.profile_img
+{
+    width: 33%;
+    float: right;
+ }
+ .profile_img img
+ {
+     width: 100%;
+     height: 95%;
+     box-shadow:0 0 15px 2px rgba(251, 255, 0, 0.18);
+ }
+ .about{
+     margin-left: 15px;
+     margin-top: 15px;
+     font-size: 18px;
+     box-shadow:0 0 15px 1px rgba(255, 255, 255, 0.18);
+ }
+ .profile_info
+ {
+     width: 60%;
+     height: 135vh;
+     float: left;
+     padding: 0 10px;
+     box-shadow:0 0 15px 1px rgba(37, 73, 214, 0.18);
+ }
+ .profile_info h1
+ {
+     color: yellowgreen;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+ .profile_info h2
+ {
+     margin-top: 30px;
+     margin-bottom: 15px;
+     color: tomato;
+ }
+ .garelly_info
+ {
+     width: 60%;
+     height: 190vh;
+     float: left;
+     padding: 0 30px;
+     box-shadow:0 0 15px 1px rgba(37, 73, 214, 0.18);
+ }
+ .garelly_info h1
+ {
+     color: yellowgreen;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+ .garelly_info h2
+ {
+     margin-top: 30px;
+     margin-bottom: 15px;
+     color: tomato;
+ }
+ .skill img
+ {
+     height: 10%;
+     margin: 10px;   
+ }
+ .skill
+ {
+     display: inline-block;
+     font-size: 20px;
+     width: 28%;
+     padding: 10px 10px;
+     margin: 2%;
+     text-align: center;
+     color: rgba(255, 191, 191, 0.884);
+     box-shadow:0 0 15px 1px rgba(255, 43, 202, 0.18);
+ }
+ .interest
+ {
+     display: inline-block;
+     font-size: 20px;
+     width: 28%;
+     padding: 10px 10px;
+     margin: 2%;
+     text-align: center;
+     color: rgba(210, 255, 88, 0.911);
+     box-shadow:0 0 15px 1px rgba(50, 255, 43, 0.18);
+ }
+
+ .interest img
+ {
+     height: 10%;
+     margin: 10px;   
+ }
+ .link
+ {
+     color: white;
+     display: inline-block;
+     font-size: 20px;
+     width: 28%;
+     padding: 10px 10px;
+     margin: 2%;
+     text-align: center;
+ }
+
+ .cescx
+ {
+    display: inline-block;
+    font-size: 20px;
+    width: 28%;
+    padding: 10px 10px;
+    margin: 2%;
+    text-align: center;
+    color: rgba(210, 255, 88, 0.911);
+    box-shadow:0 0 15px 1px rgba(132, 0, 255, 0.18);
+ }
+ .cescx img
+ {
+    height: 150px;
+    margin: 5px;
+ }
+
+ .photograph
+ {
+    display: inline-block;
+    font-size: 20px;
+    width: 28%;
+    padding: 10px 10px;
+    margin: 2%;
+    text-align: center;
+    color: rgba(210, 255, 88, 0.911);
+    box-shadow:0 0 15px 1px rgba(0, 183, 255, 0.18);
+ }
+ .photograph img
+ {
+    height: 150px;
+    margin: 10px;
+ }
+ .relax
+ {
+    display: inline-block;
+    font-size: 20px;
+    width: 28%;
+    padding: 10px 10px;
+    margin: 2%;
+    text-align: center;
+    color: rgba(210, 255, 88, 0.911);
+    box-shadow:0 0 15px 1px rgba(72, 255, 0, 0.18);
+ }
+
+ .relax img
+ {
+    height: 120px;
+    margin: 10px;
+ }
+.contacts
+{
+    margin-left: 15px;
+    font-size: 24px;
+}
+
+.form
+{
+    box-shadow:0 0 15px 1px rgba(72, 255, 0, 0.18);
+}
