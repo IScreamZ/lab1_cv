@@ -86,7 +86,6 @@ head{
      margin: 2%;
      text-align: center;
      color: rgba(255, 191, 191, 0.884);
-     box-shadow:0 0 15px 1px rgba(255, 43, 202, 0.18);
  }
  .interest
  {
@@ -97,7 +96,6 @@ head{
      margin: 2%;
      text-align: center;
      color: rgba(210, 255, 88, 0.911);
-     box-shadow:0 0 15px 1px rgba(50, 255, 43, 0.18);
  }
 
  .interest img
